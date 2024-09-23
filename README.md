@@ -12,3 +12,10 @@ The objective of this project is to provide a step-by-step guide on how to creat
 Java Swing, MySql, and Intellij Idea IDE. The end goal is to develop a functional system that can store and manage employee information effectively and efficiently, 
 while also providing the ability to search, delete, insert, update, and load data. 
 The project aims to equip the reader with the knowledge and skills needed to create a similar system.
+
+It has the following functionalities:
+
+Add employee: Allows you to add a new employee to the system by entering their personal and employment details.
+Delete employee: Allows you to delete an existing employee from the system.
+Update employee: Allows you to update the personal and employment details of an existing employee.
+Display employee: Shows a list of all employees in a JTable, with their personal and employment details.
